@@ -48,7 +48,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Cinemavillaz/Adv-Auto-Filter-Bot-v5">@CV_group1</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Cinemavillaz/Adv-Auto-Filter-Bot-v5">Click Here</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
