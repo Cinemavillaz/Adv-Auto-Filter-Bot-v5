@@ -153,7 +153,7 @@ async def auto_filter(bot, update):
         
         # Just A Decaration
         result[0].append([
-            InlineKeyboardButton(f"⭕️𝙶𝚘 𝚃𝚘 𝙽𝚎𝚡𝚃 𝙿𝚊𝙶𝚎 >>⭕️ 1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f"⭕️𝗠𝗔𝗫𝗜𝗠𝗨𝗠 𝗣𝗔𝗚𝗘𝗦⭕️1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
         ])
         
         
