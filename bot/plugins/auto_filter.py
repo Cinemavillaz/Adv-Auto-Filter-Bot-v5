@@ -203,8 +203,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"Join:- @Cv_group1
-Requested Movie :- {mention}
+                text=f"Requested Movie :- {mention}
 Results Found :- {(len_results)}
 Requested By :- {mention_name}
 
