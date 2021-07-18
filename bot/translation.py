@@ -10,7 +10,7 @@ class Translation(object):
 നിനക്ക് എന്നെ നിന്റെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ സാധിക്കില്ല 😂
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@Cv_songs
 </i>"""    
     
     HELP_TEXT = """
@@ -48,7 +48,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Cinemavillaz/Adv-Auto-Filter-Bot-v5">Click Here</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Cinemavillaz/Adv-Auto-Filter-Bot-v5">𝙻𝚒𝚘𝚗𝚎𝙻 𝙼𝚎𝚜𝚜𝙸</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
