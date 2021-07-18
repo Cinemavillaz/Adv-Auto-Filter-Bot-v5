@@ -203,7 +203,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"Found {(len_results)} 
+                text=f"Found {(len_results)} ഇതാ നീ ചോദിച്ച സിനിമയുടെ റിസൾട്ട്‌ 😂 Jóin @cv_songs :-
 : <code>{query}</code>",
                 reply_markup=reply_markup,
                 parse_mode="html",
